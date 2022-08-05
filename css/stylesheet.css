@@ -15,12 +15,18 @@ body{
 }
 
 #profilephot {
-  Width: 50%;
+  Width: 10%;
   height: 50%;
   border-radius: 50%;
   border: 3px brown;
   
 
+}
+
+img {
+  border-radius: 50%;
+  
+  
 }
 
 header {
